@@ -1,2 +1,2 @@
-# Programa-o-Orientada-a-Objetos
+# Programacao-Orientada-a-Objetos
 Códigos criados na disciplina de Porgramação Orientada a Objetos do curso de ADS 
